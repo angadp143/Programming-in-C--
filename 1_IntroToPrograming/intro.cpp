@@ -1,7 +1,7 @@
-#include<iostream>
-using namespace std;
-int main(int argc, char const *argv[])
+#include <iostream>
+// using namespace std;
+int main()
 {
-    cout<<"Hello World";
+    std::cout << "Hello World";
     return 0;
 }

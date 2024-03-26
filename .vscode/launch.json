@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CPP/Nestedloop2cpp",
-      "program": "d:/CPP/Nestedloop2cpp/build/Debug/outDebug",
+      "cwd": "d:/CPP/Polymorphism",
+      "program": "d:/CPP/Polymorphism/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

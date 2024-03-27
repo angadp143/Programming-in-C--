@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CPP/ExceptionHandling",
-      "program": "d:/CPP/ExceptionHandling/build/Debug/outDebug",
+      "cwd": "d:/CPP/ConsDestincpp",
+      "program": "d:/CPP/ConsDestincpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

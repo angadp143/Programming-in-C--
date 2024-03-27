@@ -19,7 +19,7 @@ public:
         account_number = b;
         balance = c;
     }
-    // inline cunstructor(string a,int b,int c):name(a),account_number(b),balance(c);{}    //inline comstructor
+    //  inline cunstructor(string a,int b,int c):name(a),account_number(b),balance(c);{}    //inline comstructor
     void show()
     {
         cout << name << " " << account_number << " " << balance << endl;

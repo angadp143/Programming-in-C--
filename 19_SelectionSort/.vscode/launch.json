@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CPP/FileHandling",
-      "program": "d:/CPP/FileHandling/build/Debug/outDebug",
+      "cwd": "d:/CPP/19_SelectionSort",
+      "program": "d:/CPP/19_SelectionSort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

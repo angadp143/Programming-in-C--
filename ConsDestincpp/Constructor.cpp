@@ -37,6 +37,6 @@ int main()
     customer A2("Shivam", 24, 600);
     A1.show();
     A2.show();
-    customer A3(A2); // Copy Constructor
-    A3.show();       // Copy Constructor
+    customer A3(A2);  // Copy Constructor
+    A3.show();        // Copy Constructor
 }
